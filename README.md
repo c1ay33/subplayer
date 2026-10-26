@@ -47,6 +47,6 @@
 
 ---
 
-![SubPlayer 界面](subplayer\paint\主页.png)
+![SubPlayer 界面](lib\paint\主页.png)
 
-![SubPlayer 界面](subplayer\paint\播放页.png)
+![SubPlayer 界面](lib\paint\播放页.png)
